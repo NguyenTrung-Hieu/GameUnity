@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83707c3c9bcaeeb44a8e2fdb0fbf5ffd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coins: {fileID: 8300000, guid: c2917f3570d02b8478a96375a04ebcbf, type: 3}
+  - swords: {instanceID: 0}
+  - destroy: {instanceID: 0}
+  - adisrc: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
